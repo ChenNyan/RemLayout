@@ -1,0 +1,31 @@
+header{
+	background-image: url(../img/head.png);
+	height: 0.49rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.box{
+	display: flex;
+	height: 0.49rem;
+	justify-content: center;
+	align-items: center;
+}
+.status{
+	width: 2.01rem;
+}
+.status img{
+	height: 0.11rem;
+}
+.time{
+	width: 0.94rem;
+}
+.time img{
+	height: 0.11rem;
+}
+.ping{
+	width: 1.7rem;
+}
+.ping img{
+	height: 0.11rem;
+}

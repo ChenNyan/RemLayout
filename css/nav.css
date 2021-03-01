@@ -1,0 +1,78 @@
+.nav{
+	display: flex;
+	background-image: url(../img/head.png);
+	height: 0.83rem;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.nav_left{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.nav_left .limg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 0.85rem;
+	height: 0.33rem;
+}
+.nav_left .rimg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 0.15rem;
+	height: 0.5rem;
+}
+.nav_left .font{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1.91rem;
+}
+.img1{
+	width: 0.33rem;
+	height: 0.33rem;
+}
+.img2{
+	height: 0.5rem;
+}
+.nav_left span{
+	font-size: 0.3959rem;
+	color: white;
+}
+.nav_right{
+	width: 2.24rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.navrbg{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background: url(../img/圆角矩形%201.png) no-repeat center center;
+	background-size: 1.74rem;
+	width: 1.74rem;
+	height: 0.83rem;
+}
+.navrlimg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 0.82rem;
+}
+.navrlimg img{
+	width: 0.37rem;
+}
+.navrrimg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.navrrimg img{
+	width: 0.61rem;
+}

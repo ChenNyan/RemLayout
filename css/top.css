@@ -1,0 +1,17 @@
+.topimg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 3.88rem;
+	background: url(../img/head1.png) no-repeat 0 -2.1rem;
+	background-size: cover ;
+}
+.topimg .pic{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.topimg .pic img{
+	width: 6.81rem;
+	height: 3.68rem;
+}

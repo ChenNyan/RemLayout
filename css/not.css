@@ -1,0 +1,68 @@
+.not{
+	display: flex;
+	height: 1.52rem;
+	justify-content: center;
+	align-items: center;
+}
+.notmid{
+	display: flex;
+	width: 6.81rem;
+	justify-content: center;
+	align-items: center;
+}
+.not_left{
+	display: flex;
+	flex-direction: column;
+	height: 0.78rem;
+	justify-content: center;
+	align-items: center;
+}
+.notlt{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.notlb{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.notlt img{
+	height: 0.32rem;
+}
+.notlb img{
+	height: 0.32rem;
+}
+.not_mid{
+	display: flex;
+	width: 0.35rem;
+	justify-content: center;
+	align-items: center;
+}
+.not_mid img{
+	height: 0.65rem;
+}
+.not_right{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.notrt{
+	display: flex;
+}
+.notrt img{
+	height: 0.3rem;
+}
+.notrb{
+	display: flex;
+}
+.notrb img{
+	height: 0.3rem;
+}
+.not_right span{
+	font-size: 0.3rem;
+	margin-left: 0.2rem;
+	color: #B2B2B2;
+	
+}
